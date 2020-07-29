@@ -1,0 +1,31 @@
+{
+  "name": "mybot",
+  "version": "0.0.1",
+  "description": "Bot de seguridad",
+  "main": "node bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "discord.js": "^12.2.0",
+    "moment": "^2.27.0",
+    "ms": "^2.1.2",
+    "megadb": "^3.4.0",
+    "string-similarity": "^4.0.0",
+    "mech-aki": "^0.1.3",
+    "weez": "^1.6.2",
+    "discord-giveaways": "^4.2.1",
+    "request": "^2.88.2",
+    "cheerio": "^0.22.0",
+    "canvas": "^2.6.1"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://github.com/teo-phile"
+  },
+  "license": "MIT"
+}
