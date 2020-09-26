@@ -1,0 +1,6 @@
+`[ id ] -ㅤ actividadㅤ -ㅤ tipoㅤ -ㅤ modㅤ -ㅤ ㅤ razónㅤ ㅤ `
+[9] - hace 5 días - mute - phile#0909 - aló policia
+[10] - hace 5 días - warn - JuanC#7571 - sin razón
+[12] - hace 4 días - warn - phile#0909 - Mal uso de su cargo administrativo en el servidor
+[13] - hace 4 días - warn - JuanC#7571 - muy azul
+[14] - hace 4 días - warn - meteor raid.#4413 - a
