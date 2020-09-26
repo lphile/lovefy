@@ -1,0 +1,22 @@
+prefijo: '$'
+idioma: 'en_US'
+censor:
+  filtrar:
+    invitaciones: true
+saludos:
+  reasignaroles: true
+  autoroles:
+    humanos:
+      - '738903699463602228'
+    robots:
+      - '722891344678486106'
+  bienvenida:
+    canal: '755889737230843994'
+    mensaje: 
+      embebido: false
+      contenido: 'Hola &miembro.nombre jaja espero goces de &servidor.nombre que ahora tiene &servidor.conteo'
+  despedida:
+    canal: '755889737230843994'
+    mensaje: 
+      embebido: true
+      contenido: 'Jjaja sefue el gay de &miembro.nombre, ahora somos &servidor.conteo'

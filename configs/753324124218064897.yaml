@@ -1,0 +1,20 @@
+prefijo: '+'
+idioma: 'es_ES'
+
+bloqueados:
+  comandos:
+    - 'mensaje'
+    - 'avatar'
+  miembros:
+    - '544280769359511555:'
+  canales:
+    - '753801014116876369'
+  roles:
+    - '754373890415001643'
+
+sugestiones:
+  canal: '753801014116876369'
+  aceptar:
+    reaccion: '754377299939426440'
+  rechazar:
+    reaccion: '754377326439039016'

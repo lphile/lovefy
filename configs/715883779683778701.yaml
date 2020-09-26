@@ -1,0 +1,10 @@
+prefijo: '$'
+idioma: 'es_ES'
+destacados:
+  canal: '755974914623799366'
+  conteo: 3
+bienvenida:
+canal: '756178346706075809'
+mensaje:
+embebido: true
+contenido: Hola &miembro, ¡Bienvenid@ a &servidor!

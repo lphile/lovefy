@@ -1,0 +1,17 @@
+prefijo: '$'
+idioma: 'en_US'
+sugestiones:
+  canal: '753744969365323818'
+registros:
+  MENSAJE_ELIMINADO: '720445349063426059'
+  MENSAJE_ACTUALIZADO: '720445349063426059'
+  MIEMBRO_AÑADIDO: '755620656711860295'
+  MIEMBRO_REMOVIDO: '755620656711860295'
+destacados:
+  canal: '745054571096965180'
+  conteo: 3
+infracciones:
+  rol: '748013415720550430'
+bloqueados:
+  roles:
+    - '748013415720550430'
