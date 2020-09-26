@@ -1,0 +1,41 @@
+{
+    "categorías": {
+        "Administración": "Administration",
+        "Entretenimiento": "Entertainment",
+        "Información": "Information",
+        "Moderación": "Moderation",
+        "Utilidad": "Utility"
+    },
+    "ayuda": {
+        "comando_desconocido": "This command doesn't exist, make sure is in the command list `{prefijo}help`",
+        "sin_descripción": "Without description",
+        "ejemplar": "Exemplar",
+        "sin_ejemplos": "Without examples",
+        "argumento": "Argument",
+        "sin_argumento": "Without argument",
+        "apodos": "Aliases"
+    },
+    "calificar": {
+        "aceptar": {
+            "estado": "accepted",
+            "acción": "accept"
+        },
+        "rechazar": {
+            "estado": "denied",
+            "acción": "deny"
+        },
+        "considerar": {
+            "estado": "considered",
+            "acción": "consider"
+        },
+        "invalidar": {
+            "estado": "invalidated",
+            "acción": "invalid"
+        },
+        "id_inválida": "You must enter the id of a valid message belonging to the established suggestion channel",
+        "respuesta": "Reply",
+        "sugerencia_estado": "Suggestion {estado}",
+        "sugerencia_calificación": "your suggestion, [let's see it]",
+        "sugerencia_confirmación": "The id suggestion `{param[1]}` was {estado}, [let's see it]"
+    }
+}

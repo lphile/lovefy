@@ -1,0 +1,41 @@
+{
+    "categorías": {
+        "Administración": "Administração",
+        "Entretenimiento": "Entretenimento",
+        "Información": "Informação",
+        "Moderación": "Moderação",
+        "Utilidad": "Utilidade"
+    },
+    "ayuda": {
+        "comando_desconocido": "O comando não existe, certifique-se de que está na lista de comandos `{prefijo}help`",
+        "sin_descripción": "Sem descrição",
+        "ejemplar": "Exemplar",
+        "sin_ejemplos": "Sem exemplos",
+        "argumento": "Argumento",
+        "sin_argumento": "Sem argumento",
+        "apodos": "Pseudônimos"
+    },
+    "calificar": {
+        "aceptar": {
+            "estado": "aceitaram",
+            "acción": "aceitou"
+        },
+        "rechazar": {
+            "estado": "rejeitado",
+            "acción": "rejeição"
+        },
+        "considerar": {
+            "estado": "considerado",
+            "acción": "considerou"
+        },
+        "invalidar": {
+            "estado": "invalidado",
+            "acción": "invalidou"
+        },
+        "id_inválida": "Você deve inserir o id de uma mensagem válida pertencente ao canal de sugestão estabelecido",
+        "respuesta": "Resposta",
+        "sugerencia_estado": "Sugestão {estado}",
+        "sugerencia_calificación": "sua sugestão, [vamos ver]",
+        "sugerencia_confirmación": "A id sugestão `{param[1]}` foi {estado}, [vamos ver]"
+    }
+}

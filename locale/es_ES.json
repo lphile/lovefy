@@ -1,0 +1,41 @@
+{
+    "categorías": {
+        "Administración": "Administración",
+        "Entretenimiento": "Entretenimiento",
+        "Información": "Información",
+        "Moderación": "Moderación",
+        "Utilidad": "Utilidad"
+    },
+    "ayuda": {
+        "comando_desconocido": "El comando no existe, asegúrese que se encuetra en la lista de comandos `{prefijo}ayuda`",
+        "sin_descripción": "Sin descripción",
+        "ejemplar": "Ejemplar",
+        "sin_ejemplos": "Sin ejemplos",
+        "argumento": "Argumento",
+        "sin_argumento": "Sin argumento",
+        "apodos": "Apodos"
+    },
+    "calificar": {
+        "aceptar": {
+            "estado": "aceptada",
+            "acción": "aceptó"
+        },
+        "rechazar": {
+            "estado": "rechazada",
+            "acción": "rechazó"
+        },
+        "considerar": {
+            "estado": "considerada",
+            "acción": "consideró"
+        },
+        "invalidar": {
+            "estado": "invalidada",
+            "acción": "invalidó"
+        },
+        "id_inválida": "Debes de ingresar la id de un mensaje válido perteneciente al canal de sugerencias establecido",
+        "respuesta": "Respuesta",
+        "sugerencia_estado": "Sugerencia {estado}",
+        "sugerencia_calificación": "tu sugerencia, [vamos a verla]",
+        "sugerencia_confirmación": "La sugerencia de id `{param[1]}` fue {estado}, [vamos a verla]"
+    }
+}
